@@ -19,9 +19,9 @@ num_samples=64
 num_workers=8
 weight_decay=5e-5
 filepaths=[
-    "data/test_images/1.png",
-    "data/test_images/2.png",
-    "data/test_images/3.png",
-    "data/test_images/4.png",
-    "data/test_images/5.png"
+    "images/1.png",
+    "images/2.png",
+    "images/3.png",
+    "images/4.png",
+    "images/5.png"
 ]
